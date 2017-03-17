@@ -1,0 +1,15 @@
+body {
+	background: #000000;
+	overflow: hidden;
+}
+
+p {
+	font-family: 'Ubuntu Mono', monospace;
+	font-size: 12pt;
+	color: #FFFFFF;
+}
+
+#console {
+	
+	height: calc(100% - 160px);
+}
